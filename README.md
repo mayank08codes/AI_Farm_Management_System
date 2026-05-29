@@ -26,6 +26,8 @@ The **AI Farm Management System** is a robust, full-stack web application design
 - **🏛️ Government Resources**: Integrated portal to access local government schemes and help.
 - **📊 Custom Admin Dashboard**: A powerful, centralized dashboard for administrators to oversee operations, inventory, and user activity.
 - **📄 PDF Reports**: Automatically generate and download detailed soil reports and receipts (powered by `xhtml2pdf` and `reportlab`).
+- **dashboard-<img width="1203" height="651" alt="DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/93c2908d-9aec-4179-b2b2-a0b41f686ca0" />
+
 
 ---
 
